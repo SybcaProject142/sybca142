@@ -8,5 +8,8 @@ public class clsGithub {
 		System.out.println("hello world");
 
 	}
+	void display() {
+		System.out.println("branch commit");
+	}
 
 }
